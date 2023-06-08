@@ -1,25 +1,46 @@
-{
-    "type": "equirectangular",
-    "panorama": "https://i.imgur.com/Axd2xPs.jpg",
-    "hotSpots": [
-        {
-             "pitch": 14.1,
-             "yaw": 1.5,
-             "type": "info",
-             "text": "Baltimore Museum of Art",
-             "URL": "https://artbma.org/"
+{   
+    "default": {
+        "firstScene": "houses",
+        "author": "Blake Skor",
+        "sceneFadeDuration": 1000
+    },
+    
+    "scenes": {
+        "houses": {
+            "title": "Secret Lake Neighborhood",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/Axd2xPs.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.1,
+                    "yaw": 132.9,
+                    "type": "scene",
+                    "text": "Secret Lake",
+                    "sceneId": "lake"
+                }
+            ]
         },
-        {
-             "pitch": -9.4,
-             "yaw": 222.6,
-             "type": "info",
-             "text": "Art Museum Drive"
-        },
-        {
-             "pitch": -0.9,
-             "yaw": 144.4,
-             "type": "info",
-             "text": "North Charles Street"
+
+        "lake": {
+            "title": "Secret Lake",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/d9U5aLL.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 37.1,
+                    "type": "scene",
+                    "text": "Neighborhood",
+                    "sceneId": "houses",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                }
+            ]
         }
-    ]
+    }
 }
