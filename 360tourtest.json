@@ -16,7 +16,7 @@
             "hotSpots": [
                 {
                     "pitch": -2.1,
-                    "yaw": 132.9,
+                    "yaw": 200,
                     "type": "scene",
                     "text": "Secret Lake",
                     "sceneId": "lake"
@@ -27,7 +27,7 @@
         "lake": {
             "title": "Secret Lake",
             "hfov": 110,
-            "yaw": 5,
+            "yaw": 300,
             "type": "equirectangular",
             "panorama": "https://i.imgur.com/d9U5aLL.jpg",
             "hotSpots": [
