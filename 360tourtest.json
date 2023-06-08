@@ -27,13 +27,13 @@
         "lake": {
             "title": "Secret Lake",
             "hfov": 110,
-            "yaw": 300,
+            "yaw": 100,
             "type": "equirectangular",
             "panorama": "https://i.imgur.com/d9U5aLL.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 37.1,
+                    "yaw": 300,
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
