@@ -20,12 +20,12 @@
                     "type": "scene",
                     "text": "Secret Lake",
                     "sceneId": "lake",
-                    "targetYaw": 20,
+                    "targetYaw": 270,
                     "targetPitch": 2
                 },
 
                 {
-                    "pitch": 32,
+                    "pitch": 16,
                     "yaw": 340,
                     "type": "scene",
                     "text": "Cliff",
@@ -47,7 +47,7 @@
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
-                    "targetYaw": 300,
+                    "targetYaw": 330,
                     "targetPitch": 2
                 }
             ]
