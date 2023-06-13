@@ -23,8 +23,8 @@
                 },
 
                 {
-                    "pitch": -2.1,
-                    "yaw": 0,
+                    "pitch": 1.6,
+                    "yaw": 340,
                     "type": "scene",
                     "text": "Cliff",
                     "sceneId": "cliff"
@@ -59,8 +59,8 @@
             "panorama": "https://i.imgur.com/DKTIPhu.jpg",
             "hotSpots": [
                 {
-                    "pitch": -0.6,
-                    "yaw": 160,
+                    "pitch": -2.4,
+                    "yaw": 220,
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
