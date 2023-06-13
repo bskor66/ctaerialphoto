@@ -20,6 +20,14 @@
                     "type": "scene",
                     "text": "Secret Lake",
                     "sceneId": "lake"
+                },
+
+                {
+                    "pitch": -2.1,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Cliff",
+                    "sceneId": "cliff"
                 }
             ]
         },
@@ -30,6 +38,25 @@
             "yaw": 0,
             "type": "equirectangular",
             "panorama": "https://i.imgur.com/d9U5aLL.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Neighborhood",
+                    "sceneId": "houses",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "cliff": {
+            "title": "Cliff",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/DKTIPhu.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
