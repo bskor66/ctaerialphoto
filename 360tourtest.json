@@ -64,7 +64,7 @@
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
-                    "targetYaw": -23,
+                    "targetYaw": 180,
                     "targetPitch": 2
                 }
             ]
