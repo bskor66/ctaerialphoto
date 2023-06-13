@@ -27,7 +27,7 @@
         "lake": {
             "title": "Secret Lake",
             "hfov": 110,
-            "yaw": 100,
+            "yaw": 0,
             "type": "equirectangular",
             "panorama": "https://i.imgur.com/d9U5aLL.jpg",
             "hotSpots": [
