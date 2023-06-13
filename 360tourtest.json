@@ -19,7 +19,7 @@
                     "yaw": 180,
                     "type": "scene",
                     "text": "Secret Lake",
-                    "sceneId": "lake"
+                    "sceneId": "lake",
                     "targetYaw": 20,
                     "targetPitch": 2
                 },
