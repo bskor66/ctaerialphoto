@@ -33,7 +33,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 150,
+                    "yaw": 160,
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
