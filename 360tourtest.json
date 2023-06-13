@@ -25,7 +25,7 @@
                 },
 
                 {
-                    "pitch": 1.6,
+                    "pitch": 32,
                     "yaw": 340,
                     "type": "scene",
                     "text": "Cliff",
@@ -47,7 +47,7 @@
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
-                    "targetYaw": -23,
+                    "targetYaw": 300,
                     "targetPitch": 2
                 }
             ]
