@@ -16,7 +16,7 @@
             "hotSpots": [
                 {
                     "pitch": -2.1,
-                    "yaw": 150,
+                    "yaw": 300,
                     "type": "scene",
                     "text": "Secret Lake",
                     "sceneId": "lake"
