@@ -20,6 +20,8 @@
                     "type": "scene",
                     "text": "Secret Lake",
                     "sceneId": "lake"
+                    "targetYaw": 20,
+                    "targetPitch": 2
                 },
 
                 {
@@ -59,8 +61,8 @@
             "panorama": "https://i.imgur.com/DKTIPhu.jpg",
             "hotSpots": [
                 {
-                    "pitch": 1.6,
-                    "yaw": 220,
+                    "pitch": -12,
+                    "yaw": 180,
                     "type": "scene",
                     "text": "Neighborhood",
                     "sceneId": "houses",
