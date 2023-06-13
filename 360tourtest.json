@@ -59,7 +59,7 @@
             "panorama": "https://i.imgur.com/DKTIPhu.jpg",
             "hotSpots": [
                 {
-                    "pitch": -2.4,
+                    "pitch": 1.6,
                     "yaw": 220,
                     "type": "scene",
                     "text": "Neighborhood",
