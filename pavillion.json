@@ -69,6 +69,15 @@
                     "sceneId": "Path1",
                     "targetYaw": 180,
                     "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "Path3",
+                    "sceneId": "Path3",
+                    "targetYaw": 180,
+                    "targetPitch": 2
                 }
             ]
         },
@@ -216,6 +225,171 @@
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+        "dance": {
+            "title": "dance",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/A4NMa7D.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "stage": {
+            "title": "stage",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/l3eLZT1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "bar": {
+            "title": "bar",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/hzHldDP.jpg,
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "campfire": {
+            "title": "campfire",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/lZBvrxn.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
