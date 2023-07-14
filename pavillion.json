@@ -35,7 +35,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 160,
+                    "yaw": 212,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "Entrance",
@@ -44,7 +44,7 @@
                 },
                 {
                     "pitch": -0.6,
-                    "yaw": 200,
+                    "yaw": 90,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -63,7 +63,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 180,
+                    "yaw": 270,
                     "type": "scene",
                     "text": "Path1",
                     "sceneId": "Path1",
@@ -72,7 +72,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 200,
+                    "yaw": 175,
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
