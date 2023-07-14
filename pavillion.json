@@ -1,1 +1,76 @@
+{   
+    "default": {
+        "firstScene": "Entrance",
+        "author": "CT Aerial Photo",
+        "sceneFadeDuration": 1000
+    },
+    
+    "scenes": {
+        "houses": {
+            "title": "Entrance",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/vv847HF.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.1,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path",
+                    "sceneId": "Path1",
+                    "targetYaw": 270,
+                    "targetPitch": 2
+                }
+            ]
+        },
 
+        "lake": {
+            "title": "Path1",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/Z2SHBKA.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "Entrance",
+                    "targetYaw": 330,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Path2",
+                    "sceneId": "Path2",
+                    "targetYaw": 330,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "cliff": {
+            "title": "Path2",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/KczxWrK.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path1",
+                    "sceneId": "Path1",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        }
+    }
+}
