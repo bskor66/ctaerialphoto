@@ -136,6 +136,43 @@
                     "targetPitch": 2
                 }
             ]
+        },
+
+        "Path5": {
+            "title": "Path5",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/SDgzDMl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path4",
+                    "sceneId": "Path4",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "wedding",
+                    "sceneId": "wedding",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
         }
     }
 }
