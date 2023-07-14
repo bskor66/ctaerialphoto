@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo",
-        "__version__": 9,
+        "__version__": 10,
         "sceneFadeDuration": 1000
     },
     
@@ -17,7 +17,7 @@
             "hotSpots": [
                 {
                     "pitch": -2.1,
-                    "yaw": 275,
+                    "yaw": 282,
                     "type": "scene",
                     "text": "Path1",
                     "sceneId": "Path1",
@@ -92,7 +92,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 122,
+                    "yaw": 120,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -101,7 +101,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 356,
+                    "yaw": 353,
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
@@ -120,7 +120,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 62,
+                    "yaw": 66,
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
