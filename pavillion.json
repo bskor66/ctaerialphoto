@@ -91,7 +91,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 135,
+                    "yaw": 128,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -100,7 +100,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 312,
+                    "yaw": 330,
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
@@ -119,7 +119,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 100,
+                    "yaw": 55,
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
@@ -128,7 +128,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 255,
+                    "yaw": 247,
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
