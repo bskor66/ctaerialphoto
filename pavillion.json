@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo",
-        "__version__": 10,
+        "__version__": 11,
         "sceneFadeDuration": 1000
     },
     
@@ -92,7 +92,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 120,
+                    "yaw": 119,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -120,7 +120,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 66,
+                    "yaw": 69,
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
