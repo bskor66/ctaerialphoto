@@ -44,11 +44,11 @@
                 },
                 {
                     "pitch": -0.6,
-                    "yaw": 160,
+                    "yaw": 200,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
-                    "targetYaw": 330,
+                    "targetYaw": 140,
                     "targetPitch": 2
                 }
             ]
@@ -67,6 +67,321 @@
                     "type": "scene",
                     "text": "Path1",
                     "sceneId": "Path1",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "Path3": {
+            "title": "Path3",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/izxutr0.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path2",
+                    "sceneId": "Path2",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "Path4",
+                    "sceneId": "Path4",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "Path4": {
+            "title": "Path4",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/5fV8Z0W.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path3",
+                    "sceneId": "Path3",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "Path5",
+                    "sceneId": "Path5",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "Path5": {
+            "title": "Path5",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/SDgzDMl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path4",
+                    "sceneId": "Path4",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "wedding",
+                    "sceneId": "wedding",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "wedding": {
+            "title": "wedding",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/s1a7acd.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path4",
+                    "sceneId": "Path4",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "gazebo": {
+            "title": "gazebo",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/WQGGDCU.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path5",
+                    "sceneId": "Path5",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "dance": {
+            "title": "dance",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/A4NMa7D.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "stage": {
+            "title": "stage",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/l3eLZT1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "bar": {
+            "title": "bar",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/hzHldDP.jpg,
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "campfire": {
+            "title": "campfire",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/lZBvrxn.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
