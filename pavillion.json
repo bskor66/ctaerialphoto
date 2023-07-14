@@ -6,7 +6,7 @@
     },
     
     "scenes": {
-        "houses": {
+        "Entrance": {
             "title": "Entrance",
             "hfov": 110,
             "pitch": -3,
@@ -26,7 +26,7 @@
             ]
         },
 
-        "lake": {
+        "Path1": {
             "title": "Path1",
             "hfov": 110,
             "yaw": 0,
@@ -54,7 +54,7 @@
             ]
         },
 
-        "cliff": {
+        "Path2": {
             "title": "Path2",
             "hfov": 110,
             "yaw": 0,
