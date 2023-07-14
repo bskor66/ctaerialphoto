@@ -91,7 +91,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 180,
+                    "yaw": 135,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -100,7 +100,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 220,
+                    "yaw": 312,
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
