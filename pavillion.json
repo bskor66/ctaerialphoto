@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 23,
+        "__version__": 24,
         "sceneFadeDuration": 1000
     },
     
@@ -44,8 +44,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -0.6,
-                    "yaw": 3,
+                    "pitch": -12,
+                    "yaw": 0,
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
@@ -184,7 +184,7 @@
             "panorama": "https://i.imgur.com/s1a7acd.jpg",
             "hotSpots": [
                 {
-                    "pitch": -12,
+                    "pitch": 0,
                     "yaw": 192,
                     "type": "scene",
                     "text": "Path5",
@@ -212,7 +212,7 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
+                    "pitch": 0,
                     "yaw": 92,
                     "type": "scene",
                     "text": "dance",
@@ -240,8 +240,8 @@
             "panorama": "https://i.imgur.com/A4NMa7D.jpg",
             "hotSpots": [
                 {
-                    "pitch": -12,
-                    "yaw": 180,
+                    "pitch": 0,
+                    "yaw": 270,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
@@ -249,8 +249,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 200,
+                    "pitch": 0,
+                    "yaw": 100,
                     "type": "scene",
                     "text": "stage",
                     "sceneId": "stage",
@@ -258,8 +258,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 220,
+                    "pitch": 0,
+                    "yaw": 160,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -267,8 +267,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 240,
+                    "pitch": 0,
+                    "yaw": 220,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
