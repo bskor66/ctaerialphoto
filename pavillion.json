@@ -1,6 +1,6 @@
 {   
     "default": {
-        "firstScene": "Path5",
+        "firstScene": "dance",
         "author": "CT Aerial Photo",
         "__version__": 34,
         "sceneFadeDuration": 1000
