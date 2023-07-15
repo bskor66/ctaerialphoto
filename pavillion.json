@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "dance",
         "author": "CT Aerial Photo",
-        "__version__": 35,
+        "__version__": 36,
         "sceneFadeDuration": 1000
     },
     
@@ -311,6 +311,15 @@
                     "sceneId": "campfire",
                     "targetYaw": 180,
                     "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "lounge",
+                    "sceneId": "lounge",
+                    "targetYaw": 180,
+                    "targetPitch": 2
                 }
             ]
         },
@@ -337,6 +346,15 @@
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "lounge",
+                    "sceneId": "lounge",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
@@ -383,6 +401,72 @@
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "lounge": {
+            "title": "lounge",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/wNZcptX.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 130,
+                    "type": "scene",
+                    "text": "floor",
+                    "sceneId": "floor",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 235,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "suite": {
+            "title": "suite",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/nX69qIn.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 130,
+                    "type": "scene",
+                    "text": "lounge",
+                    "sceneId": "lounge",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "inner": {
+            "title": "inner",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://imgur.com/yaEK3zX",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 130,
+                    "type": "scene",
+                    "text": "suite",
+                    "sceneId": "suite",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
