@@ -1,8 +1,8 @@
 {   
     "default": {
-        "firstScene": "dance",
+        "firstScene": "bar",
         "author": "CT Aerial Photo",
-        "__version__": 37,
+        "__version__": 38,
         "sceneFadeDuration": 1000
     },
     
