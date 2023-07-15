@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "lounge",
         "author": "CT Aerial Photo LLC",
-        "__version__": 49,
+        "__version__": 50,
         "sceneFadeDuration": 1000
     },
     
@@ -287,7 +287,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 1,
+                    "yaw": 2,
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
@@ -305,7 +305,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 328,
+                    "yaw": 327,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
@@ -444,7 +444,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 65,
+                    "yaw": 62,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -472,7 +472,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 105,
+                    "yaw": 95,
                     "type": "scene",
                     "text": "suite",
                     "sceneId": "suite",
