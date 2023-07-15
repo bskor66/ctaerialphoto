@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 27,
+        "__version__": 28,
         "sceneFadeDuration": 1000
     },
     
@@ -252,8 +252,8 @@
                     "pitch": 0,
                     "yaw": 97,
                     "type": "scene",
-                    "text": "stage",
-                    "sceneId": "stage",
+                    "text": "floor",
+                    "sceneId": "floor",
                     "targetYaw": 180,
                     "targetPitch": 2
                 },
@@ -278,8 +278,8 @@
             ]
         },
 
-        "stage": {
-            "title": "stage",
+        "floor": {
+            "title": "floor",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
