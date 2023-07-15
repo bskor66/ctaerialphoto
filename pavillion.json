@@ -148,7 +148,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 10,
+                    "yaw": 11,
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
@@ -166,7 +166,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 76,
+                    "yaw": 75,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
