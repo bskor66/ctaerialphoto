@@ -1,8 +1,8 @@
 {   
     "default": {
-        "firstScene": "bar",
+        "firstScene": "floor",
         "author": "CT Aerial Photo LLC",
-        "__version__": 45,
+        "__version__": 46,
         "sceneFadeDuration": 1000
     },
     
