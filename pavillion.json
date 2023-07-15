@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 33,
+        "__version__": 34,
         "sceneFadeDuration": 1000
     },
     
@@ -351,8 +351,8 @@
             "panorama": "https://i.imgur.com/lZBvrxn.jpg",
             "hotSpots": [
                 {
-                    "pitch": -12,
-                    "yaw": 180,
+                    "pitch": 0,
+                    "yaw": 140,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
@@ -360,8 +360,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 200,
+                    "pitch": 0,
+                    "yaw": 235,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -369,8 +369,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 220,
+                    "pitch": 0,
+                    "yaw": 185,
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
@@ -378,11 +378,11 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 240,
+                    "pitch": 0,
+                    "yaw": 200,
                     "type": "scene",
-                    "text": "stage",
-                    "sceneId": "stage",
+                    "text": "floor",
+                    "sceneId": "floor",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
