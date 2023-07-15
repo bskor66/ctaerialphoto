@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 24,
+        "__version__": 26,
         "sceneFadeDuration": 1000
     },
     
@@ -185,7 +185,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 192,
+                    "yaw": 193,
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
@@ -213,7 +213,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 92,
+                    "yaw": 93,
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
@@ -241,7 +241,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 270,
+                    "yaw": 279,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
@@ -250,7 +250,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 100,
+                    "yaw": 97,
                     "type": "scene",
                     "text": "stage",
                     "sceneId": "stage",
@@ -259,7 +259,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 160,
+                    "yaw": 140,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
