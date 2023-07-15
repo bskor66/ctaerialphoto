@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "dance",
         "author": "CT Aerial Photo",
-        "__version__": 36,
+        "__version__": 37,
         "sceneFadeDuration": 1000
     },
     
@@ -351,7 +351,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 0,
+                    "yaw": 100,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -370,7 +370,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 130,
+                    "yaw": 135,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
@@ -388,7 +388,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 187,
+                    "yaw": 186,
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
@@ -416,19 +416,19 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 130,
+                    "yaw": 118,
                     "type": "scene",
-                    "text": "floor",
-                    "sceneId": "floor",
+                    "text": "bar",
+                    "sceneId": "bar",
                     "targetYaw": 180,
                     "targetPitch": 2
                 },
                 {
                     "pitch": 0,
-                    "yaw": 235,
+                    "yaw": 236,
                     "type": "scene",
-                    "text": "bar",
-                    "sceneId": "bar",
+                    "text": "suite",
+                    "sceneId": "suite",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
