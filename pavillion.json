@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "bar",
         "author": "CT Aerial Photo LLC",
-        "__version__": 41,
+        "__version__": 42,
         "sceneFadeDuration": 1000
     },
     
@@ -241,7 +241,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 279,
+                    "yaw": 277,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
