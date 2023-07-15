@@ -313,6 +313,43 @@
                     "targetPitch": 2
                 }
             ]
+        },
+
+        "bar": {
+            "title": "bar",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/hzHldDP.jpg,
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
         }
     }
 }
