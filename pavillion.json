@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 16,
+        "__version__": 17,
         "sceneFadeDuration": 1000
     },
     
@@ -189,6 +189,43 @@
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "gazebo": {
+            "title": "gazebo",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/WQGGDCU.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Path5",
+                    "sceneId": "Path5",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "campfire",
+                    "sceneId": "campfire",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
