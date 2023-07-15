@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 15,
+        "__version__": 16,
         "sceneFadeDuration": 1000
     },
     
@@ -185,7 +185,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 0,
+                    "yaw": 180,
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
