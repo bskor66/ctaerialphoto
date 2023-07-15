@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "bar",
         "author": "CT Aerial Photo LLC",
-        "__version__": 43,
+        "__version__": 45,
         "sceneFadeDuration": 1000
     },
     
@@ -314,7 +314,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 230,
+                    "yaw": 248,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -444,7 +444,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 80,
+                    "yaw": 70,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -468,7 +468,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://imgur.com/yaEK3zX",
+            "panorama": "https://i.imgur.com/yaEK3zX.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
