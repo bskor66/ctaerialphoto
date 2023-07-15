@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 18,
+        "__version__": 19,
         "sceneFadeDuration": 1000
     },
     
