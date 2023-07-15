@@ -287,7 +287,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 180,
+                    "yaw": 0,
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
@@ -296,7 +296,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 200,
+                    "yaw": 290,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -305,7 +305,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 220,
+                    "yaw": 355,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
