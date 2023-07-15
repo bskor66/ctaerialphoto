@@ -174,6 +174,25 @@
                     "targetPitch": 2
                 }
             ]
+        },
+
+        "wedding": {
+            "title": "wedding",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/s1a7acd.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Path5",
+                    "sceneId": "Path5",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
         }
     }
 }
