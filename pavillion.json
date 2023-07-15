@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "floor",
         "author": "CT Aerial Photo LLC",
-        "__version__": 47,
+        "__version__": 48,
         "sceneFadeDuration": 1000
     },
     
@@ -305,7 +305,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 330,
+                    "yaw": 328,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
