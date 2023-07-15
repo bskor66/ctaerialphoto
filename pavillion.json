@@ -341,6 +341,52 @@
                     "targetPitch": 2
                 }
             ]
+        },
+
+        "campfire": {
+            "title": "campfire",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/lZBvrxn.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "gazebo",
+                    "sceneId": "gazebo",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 220,
+                    "type": "scene",
+                    "text": "dance",
+                    "sceneId": "dance",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 240,
+                    "type": "scene",
+                    "text": "stage",
+                    "sceneId": "stage",
+                    "targetYaw": 180,
+                    "targetPitch": 2
+                }
+            ]
         }
     }
 }
