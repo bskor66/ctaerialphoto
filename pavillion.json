@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo",
-        "__version__": 11,
+        "__version__": 12,
         "sceneFadeDuration": 1000
     },
     
@@ -148,7 +148,7 @@
             "hotSpots": [
                 {
                     "pitch": -12,
-                    "yaw": 180,
+                    "yaw": 0,
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
@@ -166,7 +166,7 @@
                 },
                 {
                     "pitch": -12,
-                    "yaw": 240,
+                    "yaw": 80,
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
