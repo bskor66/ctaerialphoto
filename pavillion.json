@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Path5",
         "author": "CT Aerial Photo",
-        "__version__": 31,
+        "__version__": 33,
         "sceneFadeDuration": 1000
     },
     
@@ -250,7 +250,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 97,
+                    "yaw": 98,
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
@@ -259,7 +259,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 140,
+                    "yaw": 139,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -268,7 +268,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 220,
+                    "yaw": 217,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
@@ -323,26 +323,17 @@
             "panorama": "https://i.imgur.com/hzHldDP.jpg",
             "hotSpots": [
                 {
-                    "pitch": -12,
-                    "yaw": 180,
+                    "pitch": 0,
+                    "yaw": 20,
                     "type": "scene",
-                    "text": "stage",
-                    "sceneId": "stage",
+                    "text": "floor",
+                    "sceneId": "floor",
                     "targetYaw": 180,
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 200,
-                    "type": "scene",
-                    "text": "dance",
-                    "sceneId": "dance",
-                    "targetYaw": 180,
-                    "targetPitch": 2
-                },
-                {
-                    "pitch": -12,
-                    "yaw": 220,
+                    "pitch": 0,
+                    "yaw": 265,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
