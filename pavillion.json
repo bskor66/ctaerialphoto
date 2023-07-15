@@ -320,7 +320,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/hzHldDP.jpg,
+            "panorama": "https://i.imgur.com/hzHldDP.jpg",
             "hotSpots": [
                 {
                     "pitch": -12,
