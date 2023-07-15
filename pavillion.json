@@ -286,7 +286,7 @@
             "panorama": "https://i.imgur.com/l3eLZT1.jpg",
             "hotSpots": [
                 {
-                    "pitch": -12,
+                    "pitch": 0,
                     "yaw": 0,
                     "type": "scene",
                     "text": "dance",
@@ -295,8 +295,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 290,
+                    "pitch": 0,
+                    "yaw": 280,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -304,8 +304,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": -12,
-                    "yaw": 355,
+                    "pitch": 0,
+                    "yaw": 330,
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
