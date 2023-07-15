@@ -1,8 +1,8 @@
 {   
     "default": {
-        "firstScene": "lounge",
+        "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 50,
+        "__version__": 51,
         "sceneFadeDuration": 1000
     },
     
