@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "bar",
         "author": "CT Aerial Photo LLC",
-        "__version__": 40,
+        "__version__": 41,
         "sceneFadeDuration": 1000
     },
     
@@ -314,7 +314,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 200,
+                    "yaw": 230,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -416,7 +416,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 115,
+                    "yaw": 112,
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
@@ -425,7 +425,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 237,
+                    "yaw": 238,
                     "type": "scene",
                     "text": "suite",
                     "sceneId": "suite",
@@ -444,7 +444,7 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 100,
+                    "yaw": 80,
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
@@ -453,10 +453,10 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 260,
+                    "yaw": 277,
                     "type": "scene",
-                    "text": "lounge",
-                    "sceneId": "lounge",
+                    "text": "inner",
+                    "sceneId": "inner",
                     "targetYaw": 180,
                     "targetPitch": 2
                 }
