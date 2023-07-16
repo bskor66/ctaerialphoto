@@ -2,13 +2,11 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 67,
+        "__version__": 68,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
-        "compass": true,
-        "autoRotate": 5,
-        "autoRotateStopDelay": 10000
+        "compass": true
     },
     
     "scenes": {
@@ -18,6 +16,8 @@
             "pitch": -3,
             "yaw": 0,
             "type": "equirectangular",
+            "autoRotate": 5,
+            "autoRotateStopDelay": 12000,
             "panorama": "https://i.imgur.com/vv847HF.jpg",
             "hotSpots": [
                 {
@@ -58,12 +58,12 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": 0,
+                    "pitch": 4,
                     "yaw": 3,
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
-                    "targetYaw": 160,
+                    "targetYaw": 260,
                     "targetPitch": 2
                 }
             ]
@@ -96,11 +96,11 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 100,
+                    "yaw": 135,
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
-                    "targetYaw": 340,
+                    "targetYaw": 270,
                     "targetPitch": 2
                 }
             ]
