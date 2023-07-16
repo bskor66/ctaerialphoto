@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 64,
+        "__version__": 65,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -54,6 +54,15 @@
                     "sceneId": "Path2",
                     "targetYaw": 160,
                     "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 3,
+                    "type": "scene",
+                    "text": "floor",
+                    "sceneId": "floor",
+                    "targetYaw": 160,
+                    "targetPitch": 2
                 }
             ]
         },
@@ -80,6 +89,15 @@
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
+                    "targetYaw": 340,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 100,
+                    "type": "scene",
+                    "text": "floor",
+                    "sceneId": "floor",
                     "targetYaw": 340,
                     "targetPitch": 2
                 }
@@ -248,7 +266,7 @@
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
-                    "targetYaw": 270,
+                    "targetYaw": 275,
                     "targetPitch": 2
                 },
                 {
