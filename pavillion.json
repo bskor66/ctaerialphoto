@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 60,
+        "__version__": 63,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -294,7 +294,7 @@
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
-                    "targetYaw": 90,
+                    "targetYaw": 270,
                     "targetPitch": 2
                 },
                 {
@@ -303,7 +303,7 @@
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
-                    "targetYaw": 180,
+                    "targetYaw": 190,
                     "targetPitch": 2
                 },
                 {
@@ -451,7 +451,7 @@
                     "type": "scene",
                     "text": "lounge",
                     "sceneId": "lounge",
-                    "targetYaw": 180,
+                    "targetYaw": 90,
                     "targetPitch": 2
                 },
                 {
@@ -479,7 +479,7 @@
                     "type": "scene",
                     "text": "suite",
                     "sceneId": "suite",
-                    "targetYaw": 180,
+                    "targetYaw": 90,
                     "targetPitch": 2
                 }
             ]
