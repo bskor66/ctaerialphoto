@@ -95,8 +95,8 @@
                     "targetPitch": 2
                 },
                 {
-                    "pitch": 2,
-                    "yaw": 123,
+                    "pitch": 4,
+                    "yaw": 110,
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
