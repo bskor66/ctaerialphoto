@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 63,
+        "__version__": 64,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -421,9 +421,9 @@
                     "pitch": 0,
                     "yaw": 112,
                     "type": "scene",
-                    "text": "bar",
-                    "sceneId": "bar",
-                    "targetYaw": 190,
+                    "text": "floor",
+                    "sceneId": "floor",
+                    "targetYaw": 90,
                     "targetPitch": 2
                 },
                 {
