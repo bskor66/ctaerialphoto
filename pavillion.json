@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 55,
+        "__version__": 56,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -173,7 +173,7 @@
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
-                    "targetYaw": 150,
+                    "targetYaw": 130,
                     "targetPitch": 2
                 }
             ]
