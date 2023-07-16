@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 53,
+        "__version__": 54,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -14,7 +14,7 @@
             "title": "Entrance",
             "hfov": 110,
             "pitch": -3,
-            "yaw": 117,
+            "yaw": 0,
             "type": "equirectangular",
             "panorama": "https://i.imgur.com/vv847HF.jpg",
             "hotSpots": [
