@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 58,
+        "__version__": 59,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -220,7 +220,7 @@
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
-                    "targetYaw": 90,
+                    "targetYaw": 110,
                     "targetPitch": 2
                 },
                 {
@@ -266,7 +266,7 @@
                     "type": "scene",
                     "text": "bar",
                     "sceneId": "bar",
-                    "targetYaw": 180,
+                    "targetYaw": 185,
                     "targetPitch": 2
                 },
                 {
@@ -294,7 +294,7 @@
                     "type": "scene",
                     "text": "dance",
                     "sceneId": "dance",
-                    "targetYaw": 180,
+                    "targetYaw": 90,
                     "targetPitch": 2
                 },
                 {
@@ -312,7 +312,7 @@
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
-                    "targetYaw": 180,
+                    "targetYaw": 0,
                     "targetPitch": 2
                 },
                 {
