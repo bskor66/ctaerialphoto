@@ -1,7 +1,7 @@
 {   
     "default": {
         "firstScene": "Entrance",
-        "author": "CT Aerial Photo LLC for Tunxis",
+        "author": "CT Aerial Photo LLC for Tunxis (WORK IN PROGRESS)",
         "__version__": 70,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
