@@ -1,8 +1,8 @@
-{   
+ {   
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 71,
+        "__version__": 72,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -96,7 +96,7 @@
                 },
                 {
                     "pitch": 3,
-                    "yaw": 120,
+                    "yaw": 130,
                     "type": "scene",
                     "text": "floor",
                     "sceneId": "floor",
