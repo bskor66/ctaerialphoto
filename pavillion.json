@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 54,
+        "__version__": 55,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -192,7 +192,7 @@
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
-                    "targetYaw": 180,
+                    "targetYaw": 35,
                     "targetPitch": 2
                 }
             ]
