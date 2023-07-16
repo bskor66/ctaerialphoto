@@ -2,11 +2,13 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 65,
+        "__version__": 67,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
-        "compass": true
+        "compass": true,
+        "autoRotate": 5,
+        "autoRotateStopDelay": 10000
     },
     
     "scenes": {
