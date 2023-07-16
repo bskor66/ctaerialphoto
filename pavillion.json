@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC",
-        "__version__": 51,
+        "__version__": 53,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -24,7 +24,7 @@
                     "type": "scene",
                     "text": "Path1",
                     "sceneId": "Path1",
-                    "targetYaw": 270,
+                    "targetYaw": 0,
                     "targetPitch": 2
                 }
             ]
@@ -43,7 +43,7 @@
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "Entrance",
-                    "targetYaw": 330,
+                    "targetYaw": 0,
                     "targetPitch": 2
                 },
                 {
@@ -52,7 +52,7 @@
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
-                    "targetYaw": 140,
+                    "targetYaw": 160,
                     "targetPitch": 2
                 }
             ]
@@ -80,7 +80,7 @@
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
-                    "targetYaw": 180,
+                    "targetYaw": 340,
                     "targetPitch": 2
                 }
             ]
@@ -99,7 +99,7 @@
                     "type": "scene",
                     "text": "Path2",
                     "sceneId": "Path2",
-                    "targetYaw": 180,
+                    "targetYaw": 290,
                     "targetPitch": 2
                 },
                 {
@@ -108,7 +108,7 @@
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
-                    "targetYaw": 180,
+                    "targetYaw": 230,
                     "targetPitch": 2
                 }
             ]
@@ -127,7 +127,7 @@
                     "type": "scene",
                     "text": "Path3",
                     "sceneId": "Path3",
-                    "targetYaw": 180,
+                    "targetYaw": 100,
                     "targetPitch": 2
                 },
                 {
@@ -136,7 +136,7 @@
                     "type": "scene",
                     "text": "Path5",
                     "sceneId": "Path5",
-                    "targetYaw": 180,
+                    "targetYaw": 200,
                     "targetPitch": 2
                 }
             ]
@@ -155,7 +155,7 @@
                     "type": "scene",
                     "text": "Path4",
                     "sceneId": "Path4",
-                    "targetYaw": 180,
+                    "targetYaw": 80,
                     "targetPitch": 2
                 },
                 {
@@ -164,7 +164,7 @@
                     "type": "scene",
                     "text": "wedding",
                     "sceneId": "wedding",
-                    "targetYaw": 180,
+                    "targetYaw": 0,
                     "targetPitch": 2
                 },
                 {
@@ -173,7 +173,7 @@
                     "type": "scene",
                     "text": "gazebo",
                     "sceneId": "gazebo",
-                    "targetYaw": 180,
+                    "targetYaw": 150,
                     "targetPitch": 2
                 }
             ]
