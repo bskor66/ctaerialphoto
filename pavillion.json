@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 72,
+        "__version__": 73,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -204,7 +204,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/s1a7acd.jpg",
+            "panorama": "https://i.imgur.com/j4QFLnG.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -223,7 +223,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/WQGGDCU.jpg",
+            "panorama": "https://i.imgur.com/bKKV10f.jpg",
             "hotSpots": [
                 {
                     "pitch": -12,
@@ -293,8 +293,8 @@
                     "pitch": 0,
                     "yaw": 217,
                     "type": "scene",
-                    "text": "campfire",
-                    "sceneId": "campfire",
+                    "text": "",
+                    "sceneId": "",
                     "targetYaw": 0,
                     "targetPitch": 2
                 }
@@ -330,8 +330,8 @@
                     "pitch": 0,
                     "yaw": 327,
                     "type": "scene",
-                    "text": "campfire",
-                    "sceneId": "campfire",
+                    "text": "",
+                    "sceneId": "",
                     "targetYaw": 0,
                     "targetPitch": 2
                 },
@@ -352,7 +352,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/hzHldDP.jpg",
+            "panorama": "https://i.imgur.com/AZ1DVGG.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -367,8 +367,8 @@
                     "pitch": 0,
                     "yaw": 271,
                     "type": "scene",
-                    "text": "campfire",
-                    "sceneId": "campfire",
+                    "text": "",
+                    "sceneId": "",
                     "targetYaw": 0,
                     "targetPitch": 2
                 },
@@ -389,7 +389,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/lZBvrxn.jpg",
+            "panorama": "https://i.imgur.com/KGATHsU.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
