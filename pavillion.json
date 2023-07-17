@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 73,
+        "__version__": 74,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -293,8 +293,8 @@
                     "pitch": 0,
                     "yaw": 217,
                     "type": "scene",
-                    "text": "",
-                    "sceneId": "",
+                    "text": "campfire",
+                    "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
                 }
@@ -330,8 +330,8 @@
                     "pitch": 0,
                     "yaw": 327,
                     "type": "scene",
-                    "text": "",
-                    "sceneId": "",
+                    "text": "campfire",
+                    "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
                 },
@@ -367,8 +367,8 @@
                     "pitch": 0,
                     "yaw": 271,
                     "type": "scene",
-                    "text": "",
-                    "sceneId": "",
+                    "text": "campfire",
+                    "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
                 },
