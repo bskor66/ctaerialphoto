@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 76,
+        "__version__": 77,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -249,6 +249,15 @@
                     "type": "scene",
                     "text": "campfire",
                     "sceneId": "campfire",
+                    "targetYaw": 0,
+                    "targetPitch": 2
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 120,
+                    "type": "scene",
+                    "text": "bar",
+                    "sceneId": "bar",
                     "targetYaw": 0,
                     "targetPitch": 2
                 }
