@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 75,
+        "__version__": 76,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -352,7 +352,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/AZ1DVGG.jpg",
+            "panorama": "https://i.imgur.com/mePBqWM.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
