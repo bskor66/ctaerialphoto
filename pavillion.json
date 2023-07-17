@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 74,
+        "__version__": 75,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -204,7 +204,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/j4QFLnG.jpg",
+            "panorama": "https://i.imgur.com/R9hOKL4.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -223,7 +223,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/bKKV10f.jpg",
+            "panorama": "https://i.imgur.com/h3nxno1.jpg",
             "hotSpots": [
                 {
                     "pitch": -12,
@@ -260,7 +260,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/A4NMa7D.jpg",
+            "panorama": "https://i.imgur.com/OEz0jld.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -306,7 +306,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/l3eLZT1.jpg",
+            "panorama": "https://i.imgur.com/UpZlyKM.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -389,7 +389,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/KGATHsU.jpg",
+            "panorama": "https://i.imgur.com/IQzWNGB.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -435,7 +435,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/wNZcptX.jpg",
+            "panorama": "https://i.imgur.com/hW1fuHM.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -463,7 +463,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/nX69qIn.jpg",
+            "panorama": "https://i.imgur.com/P0Psy40.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
@@ -491,7 +491,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/yaEK3zX.jpg",
+            "panorama": "https://i.imgur.com/Q6mXprT.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
