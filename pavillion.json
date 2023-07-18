@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "Entrance",
         "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 79,
+        "__version__": 81,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -24,7 +24,7 @@
                     "pitch": -2.1,
                     "yaw": 282,
                     "type": "scene",
-                    "text": "Path1",
+                    "text": "Walk Up Path",
                     "sceneId": "Path1",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -52,7 +52,7 @@
                     "pitch": -12,
                     "yaw": 0,
                     "type": "scene",
-                    "text": "Path2",
+                    "text": "Walk Up Path",
                     "sceneId": "Path2",
                     "targetYaw": 160,
                     "targetPitch": 2
@@ -61,7 +61,7 @@
                     "pitch": 4,
                     "yaw": 3,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 260,
                     "targetPitch": 2
@@ -80,7 +80,7 @@
                     "pitch": -12,
                     "yaw": 303,
                     "type": "scene",
-                    "text": "Path1",
+                    "text": "Walk Down Path",
                     "sceneId": "Path1",
                     "targetYaw": 180,
                     "targetPitch": 2
@@ -89,7 +89,7 @@
                     "pitch": -12,
                     "yaw": 175,
                     "type": "scene",
-                    "text": "Path3",
+                    "text": "Walk Up Path",
                     "sceneId": "Path3",
                     "targetYaw": 340,
                     "targetPitch": 2
@@ -98,7 +98,7 @@
                     "pitch": 3,
                     "yaw": 130,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -117,7 +117,7 @@
                     "pitch": -12,
                     "yaw": 119,
                     "type": "scene",
-                    "text": "Path2",
+                    "text": "Walk Down Path",
                     "sceneId": "Path2",
                     "targetYaw": 290,
                     "targetPitch": 2
@@ -126,7 +126,7 @@
                     "pitch": -12,
                     "yaw": 353,
                     "type": "scene",
-                    "text": "Path4",
+                    "text": "Walk Up Path",
                     "sceneId": "Path4",
                     "targetYaw": 230,
                     "targetPitch": 2
@@ -145,7 +145,7 @@
                     "pitch": -12,
                     "yaw": 69,
                     "type": "scene",
-                    "text": "Path3",
+                    "text": "Walk Down Path",
                     "sceneId": "Path3",
                     "targetYaw": 100,
                     "targetPitch": 2
@@ -154,7 +154,7 @@
                     "pitch": -12,
                     "yaw": 247,
                     "type": "scene",
-                    "text": "Path5",
+                    "text": "Walk Up Path",
                     "sceneId": "Path5",
                     "targetYaw": 200,
                     "targetPitch": 2
@@ -173,7 +173,7 @@
                     "pitch": -12,
                     "yaw": 11,
                     "type": "scene",
-                    "text": "Path4",
+                    "text": "Walk Down Path",
                     "sceneId": "Path4",
                     "targetYaw": 80,
                     "targetPitch": 2
@@ -182,7 +182,7 @@
                     "pitch": -12,
                     "yaw": 220,
                     "type": "scene",
-                    "text": "wedding",
+                    "text": "Wedding",
                     "sceneId": "wedding",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -191,7 +191,7 @@
                     "pitch": -12,
                     "yaw": 75,
                     "type": "scene",
-                    "text": "gazebo",
+                    "text": "Gazebo",
                     "sceneId": "gazebo",
                     "targetYaw": 130,
                     "targetPitch": 2
@@ -210,7 +210,7 @@
                     "pitch": 0,
                     "yaw": 193,
                     "type": "scene",
-                    "text": "Path5",
+                    "text": "Walk Down Path",
                     "sceneId": "Path5",
                     "targetYaw": 35,
                     "targetPitch": 2
@@ -229,7 +229,7 @@
                     "pitch": -12,
                     "yaw": 6,
                     "type": "scene",
-                    "text": "Path5",
+                    "text": "Walk Down Path",
                     "sceneId": "Path5",
                     "targetYaw": 220,
                     "targetPitch": 2
@@ -238,7 +238,7 @@
                     "pitch": 0,
                     "yaw": 93,
                     "type": "scene",
-                    "text": "dance",
+                    "text": "Dance Floor",
                     "sceneId": "dance",
                     "targetYaw": 110,
                     "targetPitch": 2
@@ -247,7 +247,7 @@
                     "pitch": 0,
                     "yaw": 180,
                     "type": "scene",
-                    "text": "campfire",
+                    "text": "Fireplace",
                     "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -256,7 +256,7 @@
                     "pitch": 0,
                     "yaw": 120,
                     "type": "scene",
-                    "text": "bar",
+                    "text": "Bar",
                     "sceneId": "bar",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -275,7 +275,7 @@
                     "pitch": 0,
                     "yaw": 277,
                     "type": "scene",
-                    "text": "gazebo",
+                    "text": "Gazebo",
                     "sceneId": "gazebo",
                     "targetYaw": 275,
                     "targetPitch": 2
@@ -284,7 +284,7 @@
                     "pitch": 0,
                     "yaw": 98,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 180,
                     "targetPitch": 2
@@ -293,7 +293,7 @@
                     "pitch": 0,
                     "yaw": 139,
                     "type": "scene",
-                    "text": "bar",
+                    "text": "Bar",
                     "sceneId": "bar",
                     "targetYaw": 185,
                     "targetPitch": 2
@@ -302,7 +302,7 @@
                     "pitch": 0,
                     "yaw": 217,
                     "type": "scene",
-                    "text": "campfire",
+                    "text": "Fireplace",
                     "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -321,7 +321,7 @@
                     "pitch": 0,
                     "yaw": 2,
                     "type": "scene",
-                    "text": "dance",
+                    "text": "Dance Floor",
                     "sceneId": "dance",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -330,7 +330,7 @@
                     "pitch": 0,
                     "yaw": 279,
                     "type": "scene",
-                    "text": "bar",
+                    "text": "Bar",
                     "sceneId": "bar",
                     "targetYaw": 190,
                     "targetPitch": 2
@@ -339,7 +339,7 @@
                     "pitch": 0,
                     "yaw": 327,
                     "type": "scene",
-                    "text": "campfire",
+                    "text": "Fireplace",
                     "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -348,7 +348,7 @@
                     "pitch": 0,
                     "yaw": 250,
                     "type": "scene",
-                    "text": "lounge",
+                    "text": "Lounge",
                     "sceneId": "lounge",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -367,7 +367,7 @@
                     "pitch": 0,
                     "yaw": 15,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 90,
                     "targetPitch": 2
@@ -376,7 +376,7 @@
                     "pitch": 0,
                     "yaw": 271,
                     "type": "scene",
-                    "text": "campfire",
+                    "text": "Fireplace",
                     "sceneId": "campfire",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -385,7 +385,7 @@
                     "pitch": 0,
                     "yaw": 100,
                     "type": "scene",
-                    "text": "lounge",
+                    "text": "Lounge",
                     "sceneId": "lounge",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -404,7 +404,7 @@
                     "pitch": 0,
                     "yaw": 135,
                     "type": "scene",
-                    "text": "gazebo",
+                    "text": "Gazebo",
                     "sceneId": "gazebo",
                     "targetYaw": 0,
                     "targetPitch": 2
@@ -413,7 +413,7 @@
                     "pitch": 0,
                     "yaw": 235,
                     "type": "scene",
-                    "text": "bar",
+                    "text": "Bar",
                     "sceneId": "bar",
                     "targetYaw": 90,
                     "targetPitch": 2
@@ -422,7 +422,7 @@
                     "pitch": 0,
                     "yaw": 186,
                     "type": "scene",
-                    "text": "dance",
+                    "text": "Dance Floor",
                     "sceneId": "dance",
                     "targetYaw": 20,
                     "targetPitch": 2
@@ -431,7 +431,7 @@
                     "pitch": 0,
                     "yaw": 210,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 135,
                     "targetPitch": 2
@@ -450,7 +450,7 @@
                     "pitch": 0,
                     "yaw": 112,
                     "type": "scene",
-                    "text": "floor",
+                    "text": "Buffet",
                     "sceneId": "floor",
                     "targetYaw": 90,
                     "targetPitch": 2
@@ -459,7 +459,7 @@
                     "pitch": 0,
                     "yaw": 238,
                     "type": "scene",
-                    "text": "suite",
+                    "text": "Bridal Suite",
                     "sceneId": "suite",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -478,7 +478,7 @@
                     "pitch": 0,
                     "yaw": 62,
                     "type": "scene",
-                    "text": "lounge",
+                    "text": "Lounge",
                     "sceneId": "lounge",
                     "targetYaw": 90,
                     "targetPitch": 2
@@ -487,7 +487,7 @@
                     "pitch": 0,
                     "yaw": 277,
                     "type": "scene",
-                    "text": "inner",
+                    "text": "Walk Forward",
                     "sceneId": "inner",
                     "targetYaw": 270,
                     "targetPitch": 2
@@ -506,7 +506,7 @@
                     "pitch": 0,
                     "yaw": 95,
                     "type": "scene",
-                    "text": "suite",
+                    "text": "Walk Forward",
                     "sceneId": "suite",
                     "targetYaw": 90,
                     "targetPitch": 2
