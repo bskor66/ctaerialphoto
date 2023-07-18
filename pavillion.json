@@ -1,8 +1,7 @@
  {   
     "default": {
         "firstScene": "Entrance",
-        "author": "CT Aerial Photo LLC for Tunxis / WORK IN PROGRESS",
-        "__version__": 83,
+        "__version__": 85,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -33,7 +32,7 @@
         },
 
         "Path1": {
-            "title": "Path1",
+            "title": "Path",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -70,7 +69,7 @@
         },
 
         "Path2": {
-            "title": "Path2",
+            "title": "Path",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -107,7 +106,7 @@
         },
 
         "Path3": {
-            "title": "Path3",
+            "title": "Path",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -135,7 +134,7 @@
         },
 
         "Path4": {
-            "title": "Path4",
+            "title": "Path",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -163,7 +162,7 @@
         },
 
         "Path5": {
-            "title": "Path5",
+            "title": "Path",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -200,7 +199,7 @@
         },
 
         "wedding": {
-            "title": "wedding",
+            "title": "Wedding",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -219,7 +218,7 @@
         },
 
         "gazebo": {
-            "title": "gazebo",
+            "title": "Gazebo",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -265,7 +264,7 @@
         },
         
         "dance": {
-            "title": "dance",
+            "title": "Dance Floor",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -311,7 +310,7 @@
         },
 
         "floor": {
-            "title": "floor",
+            "title": "Buffet",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -357,7 +356,7 @@
         },
 
         "bar": {
-            "title": "bar",
+            "title": "Bar",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -394,7 +393,7 @@
         },
 
         "campfire": {
-            "title": "campfire",
+            "title": "Fireplace",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -440,7 +439,7 @@
         },
 
         "lounge": {
-            "title": "lounge",
+            "title": "Lounge",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -468,7 +467,7 @@
         },
 
         "suite": {
-            "title": "suite",
+            "title": "Bridal Suite",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -496,7 +495,7 @@
         },
 
         "inner": {
-            "title": "inner",
+            "title": "Bridal Suite",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
