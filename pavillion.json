@@ -1,7 +1,7 @@
  {   
     "default": {
         "firstScene": "Entrance",
-        "__version__": 87,
+        "__version__": 88,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -32,7 +32,7 @@
         },
 
         "Path1": {
-            "title": "Path",
+            "title": "Pathway",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -69,7 +69,7 @@
         },
 
         "Path2": {
-            "title": "Path",
+            "title": "Pathway",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -106,7 +106,7 @@
         },
 
         "Path3": {
-            "title": "Path",
+            "title": "Pathway",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -134,7 +134,7 @@
         },
 
         "Path4": {
-            "title": "Path",
+            "title": "Pathway",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
@@ -162,7 +162,7 @@
         },
 
         "Path5": {
-            "title": "Path",
+            "title": "Pathway",
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
