@@ -1,7 +1,7 @@
  {   
     "default": {
         "firstScene": "Entrance",
-        "__version__": 85,
+        "__version__": 87,
         "sceneFadeDuration": 1000,
         "autoLoad": true,
         "showControls": true,
@@ -253,7 +253,7 @@
                 },
                 {
                     "pitch": 0,
-                    "yaw": 120,
+                    "yaw": 123,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
