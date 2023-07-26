@@ -2,11 +2,10 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 12,
+        "__version__": 13,
         "autoLoad": true,
         "showControls": true,
         "compass": true,
-        "author": 12
     },
     
     "scenes": {
@@ -16,7 +15,7 @@
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/koFQqcK.jpg",
+            "panorama": "https://i.imgur.com/eAIurEK.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
@@ -55,7 +54,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/Pww6AUj.jpg",
+            "panorama": "https://i.imgur.com/5AnMB8T.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
@@ -84,7 +83,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/Tcsa8zH.jpg",
+            "panorama": "https://i.imgur.com/vk8Mrr2.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
@@ -123,7 +122,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/ptY7tHb.jpg",
+            "panorama": "https://i.imgur.com/OjY0R8d.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
