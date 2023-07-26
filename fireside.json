@@ -2,11 +2,11 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 6,
+        "__version__": 7,
         "autoLoad": true,
         "showControls": true,
         "compass": true,
-        "author": 6
+        "author": 7
     },
     
     "scenes": {
@@ -36,7 +36,7 @@
 
                 {
                     "pitch": -0.6,
-                    "yaw": 333,
+                    "yaw": 332,
                     "type": "scene",
                     "text": "Fireplace",
                     "sceneId": "fireplace"
@@ -53,7 +53,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 230,
+                    "yaw": 222,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
@@ -82,7 +82,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 2,
+                    "yaw": 359,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "entrance",
@@ -102,7 +102,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 42,
+                    "yaw": 46,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
@@ -121,7 +121,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 40,
+                    "yaw": 85,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
@@ -131,7 +131,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 5,
+                    "yaw": 350,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
