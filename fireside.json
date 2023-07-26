@@ -1,0 +1,140 @@
+{   
+    "default": {
+        "firstScene": "dining room",
+        "author": "CT AERIAL WIP",
+        "sceneFadeDuration": 1000
+    },
+    
+    "scenes": {
+        "dining room": {
+            "title": "Dining Room",
+            "hfov": 110,
+            "pitch": -3,
+            "yaw": 117,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/2rVBibp.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.1,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                },
+
+                {
+                    "pitch": -2.1,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Bar",
+                    "sceneId": "bar"
+                },
+
+                {
+                    "pitch": -2.1,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "Fireplace",
+                    "sceneId": "fireplace"
+                }
+            ]
+        },
+
+        "fireplace": {
+            "title": "Fireplace",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/75Wh7ys.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Dining Room",
+                    "sceneId": "dining room",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                },
+              
+                {
+                    "pitch": -0.6,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "Bar",
+                    "sceneId": "bar",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "bar": {
+            "title": "Bar",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/2aZIntE.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                },
+              
+                {
+                    "pitch": -0.6,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Fireplace",
+                    "sceneId": "fireplace",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                },
+              
+                {
+                    "pitch": -0.6,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "Dining Room",
+                    "sceneId": "dining room",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                }
+            ]
+        },
+
+        "entrance": {
+            "title": "Entrance",
+            "hfov": 110,
+            "yaw": 0,
+            "type": "equirectangular",
+            "panorama": "https://i.imgur.com/2aZIntE.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.6,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "Bar",
+                    "sceneId": "bar",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                },
+              
+                {
+                    "pitch": -0.6,
+                    "yaw": 200,
+                    "type": "scene",
+                    "text": "Dining Room",
+                    "sceneId": "dining room",
+                    "targetYaw": -23,
+                    "targetPitch": 2
+                }
+            ]
+        }
+    }
+}
