@@ -5,7 +5,7 @@
         "__version__": 14,
         "autoLoad": true,
         "showControls": true,
-        "compass": true
+        "compass": false
     },
     
     "scenes": {
