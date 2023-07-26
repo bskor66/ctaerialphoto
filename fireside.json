@@ -2,11 +2,11 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 11,
+        "__version__": 12,
         "autoLoad": true,
         "showControls": true,
         "compass": true,
-        "author": 11
+        "author": 12
     },
     
     "scenes": {
@@ -44,7 +44,7 @@
                     "type": "scene",
                     "text": "Fireplace",
                     "sceneId": "fireplace",
-                    "targetYaw": -160,
+                    "targetYaw": 25,
                     "targetPitch": 2
                 }
             ]
@@ -131,7 +131,7 @@
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
-                    "targetYaw": -23,
+                    "targetYaw": 180,
                     "targetPitch": 2
                 },
               
@@ -141,7 +141,7 @@
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
-                    "targetYaw": -23,
+                    "targetYaw": -95,
                     "targetPitch": 2
                 }
             ]
