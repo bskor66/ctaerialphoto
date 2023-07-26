@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 5,
+        "__version__": 6,
         "autoLoad": true,
         "showControls": true,
         "compass": true
@@ -19,7 +19,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 80,
+                    "yaw": 81,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "entrance"
@@ -27,7 +27,7 @@
 
                 {
                     "pitch": -0.6,
-                    "yaw": 25,
+                    "yaw": 27,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar"
@@ -35,7 +35,7 @@
 
                 {
                     "pitch": -0.6,
-                    "yaw": 330,
+                    "yaw": 333,
                     "type": "scene",
                     "text": "Fireplace",
                     "sceneId": "fireplace"
@@ -62,7 +62,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 125,
+                    "yaw": 122,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
@@ -81,7 +81,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 355,
+                    "yaw": 2,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "entrance",
@@ -101,7 +101,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 50,
+                    "yaw": 42,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
@@ -120,7 +120,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 340,
+                    "yaw": 40,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
@@ -130,7 +130,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 40,
+                    "yaw": 5,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
