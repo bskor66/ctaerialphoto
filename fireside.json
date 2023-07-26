@@ -16,7 +16,7 @@
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": https://i.imgur.com/koFQqcK.jpg",
+            "panorama": "https://i.imgur.com/koFQqcK.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
