@@ -3,7 +3,10 @@
         "firstScene": "dining room",
         "author": "CT AERIAL WIP",
         "sceneFadeDuration": 1000,
-        "version": 2
+        "__version__": 3,
+        "autoLoad": true,
+        "showControls": true,
+        "compass": true
     },
     
     "scenes": {
