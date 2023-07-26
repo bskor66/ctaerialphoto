@@ -2,7 +2,7 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 4,
+        "__version__": 5,
         "autoLoad": true,
         "showControls": true,
         "compass": true
