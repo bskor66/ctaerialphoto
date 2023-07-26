@@ -2,11 +2,11 @@
     "default": {
         "firstScene": "dining room",
         "sceneFadeDuration": 1000,
-        "__version__": 10,
+        "__version__": 11,
         "autoLoad": true,
         "showControls": true,
         "compass": true,
-        "author": 10
+        "author": 11
     },
     
     "scenes": {
@@ -78,7 +78,7 @@
             "hfov": 110,
             "yaw": 0,
             "type": "equirectangular",
-            "panorama": "https://i.imgur.com/bSvNCHH.jpg",
+            "panorama": "https://i.imgur.com/Tcsa8zH.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.6,
