@@ -3,7 +3,7 @@
         "firstScene": "dining room",
         "author": "CT AERIAL WIP",
         "sceneFadeDuration": 1000,
-        "__version__": 3,
+        "__version__": 4,
         "autoLoad": true,
         "showControls": true,
         "compass": true
@@ -19,24 +19,24 @@
             "panorama": "https://i.imgur.com/2rVBibp.jpg",
             "hotSpots": [
                 {
-                    "pitch": -2.1,
-                    "yaw": 90,
+                    "pitch": -0.6,
+                    "yaw": 80,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "entrance"
                 },
 
                 {
-                    "pitch": -2.1,
-                    "yaw": 30,
+                    "pitch": -0.6,
+                    "yaw": 25,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar"
                 },
 
                 {
-                    "pitch": -2.1,
-                    "yaw": 340,
+                    "pitch": -0.6,
+                    "yaw": 330,
                     "type": "scene",
                     "text": "Fireplace",
                     "sceneId": "fireplace"
@@ -53,7 +53,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 240,
+                    "yaw": 230,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
@@ -63,7 +63,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 80,
+                    "yaw": 125,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
@@ -82,7 +82,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 340,
+                    "yaw": 355,
                     "type": "scene",
                     "text": "Entrance",
                     "sceneId": "entrance",
@@ -92,7 +92,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 80,
+                    "yaw": 85,
                     "type": "scene",
                     "text": "Fireplace",
                     "sceneId": "fireplace",
@@ -102,7 +102,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 20,
+                    "yaw": 50,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
@@ -121,7 +121,7 @@
             "hotSpots": [
                 {
                     "pitch": -0.6,
-                    "yaw": 160,
+                    "yaw": 340,
                     "type": "scene",
                     "text": "Bar",
                     "sceneId": "bar",
@@ -131,7 +131,7 @@
               
                 {
                     "pitch": -0.6,
-                    "yaw": 200,
+                    "yaw": 40,
                     "type": "scene",
                     "text": "Dining Room",
                     "sceneId": "dining room",
